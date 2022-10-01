@@ -1,2 +1,2 @@
-# bi
-button incremental
+# homepage
+gonna contain some of my cool projects so yeah
